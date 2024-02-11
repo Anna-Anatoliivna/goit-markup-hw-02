@@ -94,12 +94,15 @@ body {
 .third-section {
   background: #f4f4fd;
 }
+.third-section-item {
+  background: #fff;
+  text-align: center;
+}
 .text-discrib {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
 .page-footer {
   background: #2e2f42;
 }
